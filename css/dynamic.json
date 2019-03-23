@@ -1,0 +1,35 @@
+{
+  "basics":
+  {
+    "img":"cartoon.png",
+    "name":"Rajesh Reddy",
+    "Course":"B.tech",
+    "Rollno":"17699A05430",
+    "Institute":"MITS",
+    "carrer":"Carrer objective"
+
+  },
+  "Education":[
+    {
+      "Sno":"1",
+      "Degree":"Btech",
+      "Percent":"99"
+    },
+    {
+      "Sno":"2",
+      "Degree":"intermediate",
+      "Percent":"99"
+    }
+  ],
+  "Skills":[{
+    "one":"C"
+  },
+  {
+    "one":"Python"
+  },
+  {
+    "one":"Java"
+  }
+]
+
+}
